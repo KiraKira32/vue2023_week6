@@ -1,5 +1,9 @@
 # Vue Template
 
+## Pages
+
+<a href="https://kirakira32.github.io/vue2023_week6/#/"> Week6 </a>
+
 ## Project setup
 
 ```
